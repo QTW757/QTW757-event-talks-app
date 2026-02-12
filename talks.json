@@ -1,0 +1,47 @@
+
+{
+  "talks": [
+    {
+      "title": "The Future of JavaScript",
+      "speakers": ["Jane Doe"],
+      "category": ["JavaScript", "Web Development", "Future"],
+      "duration": 60,
+      "description": "A deep dive into the next features of JavaScript and how they will shape the future of web development."
+    },
+    {
+      "title": "Advanced CSS Techniques",
+      "speakers": ["John Smith"],
+      "category": ["CSS", "Web Design"],
+      "duration": 60,
+      "description": "Learn about the latest and greatest CSS features, including Grid, Flexbox, and custom properties."
+    },
+    {
+      "title": "Building Scalable APIs with Node.js",
+      "speakers": ["Emily White", "Mike Black"],
+      "category": ["Node.js", "APIs", "Backend"],
+      "duration": 60,
+      "description": "An in-depth look at how to build and deploy scalable and resilient APIs using Node.js and Express."
+    },
+    {
+      "title": "State of the Web: A 2026 Perspective",
+      "speakers": ["Chris Green"],
+      "category": ["Web Development", "Trends"],
+      "duration": 60,
+      "description": "A high-level overview of the current and future trends in the web development industry."
+    },
+    {
+      "title": "Frontend Frameworks: A Comparative Analysis",
+      "speakers": ["Sarah Blue"],
+      "category": ["Frontend", "Frameworks", "JavaScript"],
+      "duration": 60,
+      "description": "A comprehensive comparison of the most popular frontend frameworks: React, Vue, and Angular."
+    },
+    {
+      "title": "WebAssembly: The Next Frontier",
+      "speakers": ["David Brown", "Laura Pink"],
+      "category": ["WebAssembly", "Performance", "Future"],
+      "duration": 60,
+      "description": "Explore the power of WebAssembly and how it's enabling near-native performance in the browser."
+    }
+  ]
+}
